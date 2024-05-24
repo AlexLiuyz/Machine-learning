@@ -1,0 +1,5 @@
+models,TC,TD
+LSA,0.3226,0.7625
+DictionaryLearning,0.3385,0.7750
+umap,0.3965,0.9375
+PCA,0.3752,0.8500

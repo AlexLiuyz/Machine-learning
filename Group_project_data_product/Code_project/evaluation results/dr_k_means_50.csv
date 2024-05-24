@@ -1,0 +1,4 @@
+models,TC,TD
+LSA,0.3184,0.4400
+DictionaryLearning,0.3405,0.4260
+PCA,0.3377,0.4820

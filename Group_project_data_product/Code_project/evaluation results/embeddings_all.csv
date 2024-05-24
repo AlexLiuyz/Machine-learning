@@ -1,0 +1,11 @@
+models,TC,TD
+base_sentence_transformer,0.3866,0.8560
+small_sentence_transformer,0.3896,0.8615
+semantic_search,0.3856,0.8509
+bing_search,0.4088,0.8583
+google_questions,0.3725,0.8798
+meta_questions,0.3980,0.8779
+tf_idf,0.4398,0.8791
+word_count,0.4215,0.8450
+sota_sentence_transformer,0.3762,0.8384
+clip,0.3968,0.8484

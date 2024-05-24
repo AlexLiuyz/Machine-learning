@@ -1,0 +1,7 @@
+models,TC,TD
+base_sentence_transformer_emb,0.3368,0.5340
+small_sentence_transformer_emb,0.3358,0.5340
+semantic_search_emb,0.3367,0.5140
+bing_search_emb,0.3549,0.5040
+google_questions_emb,0.3267,0.4440
+meta_questions_emb,0.3238,0.4340

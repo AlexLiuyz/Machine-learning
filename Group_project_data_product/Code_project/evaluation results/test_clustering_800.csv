@@ -1,0 +1,5 @@
+models,TC,TD
+k_means_8_cluster,0.4127,0.9750
+k_means_50_cluster,0.4452,0.9778
+HDBSCAN_cluster__and__umap_dr,0.4338,1.0000
+k_means_800_cluster,0.4248,1.0000
